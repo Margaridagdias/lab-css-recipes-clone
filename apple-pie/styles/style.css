@@ -1,0 +1,11 @@
+.apples {
+    width: 200px;
+    height: 100px;
+}
+
+p {
+    list-style: none;
+	    display: flex;
+	    justify-content: space-between;
+        align-items: center;
+}
